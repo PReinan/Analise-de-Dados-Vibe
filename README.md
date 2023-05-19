@@ -1,8 +1,9 @@
-# CompassUOL
+# Vibe Tecnologias
 
-Este é um repositório para o arquivamento de trabalhos sequênciais de Paulo Reinan Pereira Cardoso na rede UOL COMPASS.
-No mesmo, utilizaremos de Virtual Machines, imagens docker e etc.
+Este é um repositório para o arquivamento de trabalhos sequênciais da equipe de faculdade na rede Estacio FAP.
+No mesmo, utilizaremos de Google Colab, Python e etc.
 
 Programas ultilizado:
-VMBox: https://www.virtualbox.org/wiki/Downloads
+Colab: (https://colab.research.google.com/)
+Python 3.7.1: https://dicasdepython.com.br/como-instalar-o-python-no-windows-10/
 
